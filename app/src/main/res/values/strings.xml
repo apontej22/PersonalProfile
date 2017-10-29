@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Personal Profile</string>
+    <string name="text_header">Janet</string>
+    <string name="txt_caption">My family and I at Disney World</string>
+    <string name="btn_view">View Profile</string>
+    <string name="txt_bio">Janet studies at MCC and is working towards an A.A.S in Computer
+        Information System. She likes to go on vacation with all her family.</string>
+</resources>
